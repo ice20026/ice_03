@@ -1,6 +1,5 @@
 # web-003
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -55,7 +54,7 @@
         <input type="email" id="email" name="email" required>
         <label for="message">Mensaje:</label>
         <textarea id="message" name="message" required></textarea>
-        <button href="">Enviar</button>
+        <button href="https://ice20026.github.io/web-004/">Enviar</button>
     </form>
 </body>
 </html>
@@ -82,4 +81,39 @@
     <p>Este es un ejemplo de una página con una imagen de fondo.</p>
 </body>
 </html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botón con Hipervínculo</title>
+    <style>
+        .btn {
+            display: inline-block; /* Para que el enlace se comporte como botón */
+            font-size: 16px; /* Tamaño del texto */
+            padding: 10px 20px; /* Espaciado interno del botón */
+            color: white; /* Color del texto */
+            background-color: #007BFF; /* Color de fondo */
+            border: none; /* Sin borde */
+            border-radius: 5px; /* Bordes redondeados */
+            cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+            text-align: center; /* Centra el texto */
+            text-decoration: none; /* Quita el subrayado del enlace */
+            margin: 10px; /* Espacio entre botones */
+        }
+        .btn:hover {
+            background-color: #0056b3; /* Color de fondo al pasar el ratón */
+        }
+    </style>
+</head>
+<body>
+    <a href="https://ice20026.github.io/web-002/" class="btn">atras</a>
+</body>
+</html>
+
+
 
