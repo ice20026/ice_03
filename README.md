@@ -77,15 +77,15 @@
     </style>
 </head>
 <body>
-    <h1>¡Hola Mundo!</h1>
-    <p>Este es un ejemplo de una página con una imagen de fondo.</p>
+    <h1></h1>
+    <p></p>
 </body>
 </html>
 
 
 
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
