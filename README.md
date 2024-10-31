@@ -54,7 +54,7 @@
         <input type="email" id="email" name="email" required>
         <label for="message">Mensaje:</label>
         <textarea id="message" name="message" required></textarea>
-        <button href="https://ice20026.github.io/web-004/?name=ice&email=davidarroyomendoza49%40gmail.com&message=ice">Enviar</button>
+        <button href="https://ice20026.github.io/web-004/">Enviar</button>
     </form>
 </body>
 </html>
@@ -111,7 +111,7 @@
     </style>
 </head>
 <body>
-    <a href="https://ice20026.github.io/web-002/" class="btn">atras</a>
+    <a href="https://github.com/ice20026/web-004/" class="btn">Enviar</a>
 </body>
 </html>
 
