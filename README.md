@@ -164,7 +164,8 @@ Facilidad de Escalabilidad: Puedes escalar tu negocio fácilmente, añadiendo m�
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
             margin: 0;
-width: 300px; /* Ancho de la imagen */ height: 200px; /* Alto de la imagen */
+width: 300px; /* Ancho de la imagen */
+            height: 200px; /* Alto de la imagen */
                 font-family: Arial, sans-serif;
         }
     </style>
