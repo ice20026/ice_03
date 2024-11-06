@@ -48,9 +48,6 @@
             <img src="Untitled design.gif" alt="Descripción de la imagen 1">
             <a href="https://wa.me/88034121?text=Hola%20¿cómo%20estás quiero recibir mas informacion sobre esta web ?" class="whatsapp-link" target="_blank">Recibir mas datos</a>
         </div>
-        
-
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -86,8 +83,8 @@ Oportunidades Laborales: Puede atraer la atención de empleadores, clientes pote
 </p>
 </body>
 </html>
-        <div class="photo.gif">
-            <img src="Untitled design (1).gif" alt="Descripción de la imagen 2">
+  <div class="photo.gif">
+  <img src="Untitled design (1).gif" alt="Descripción de la imagen 2">
 
 <html lang="es">
 <head>
@@ -139,43 +136,6 @@ Conexión con la Comunidad: Puedes conectar con personas que comparten tus inter
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -214,12 +174,6 @@ Conexión con la Comunidad: Puedes conectar con personas que comparten tus inter
 </html>
 
 
-
-
-
-
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -237,8 +191,8 @@ Conexión con la Comunidad: Puedes conectar con personas que comparten tus inter
     </style>
 </head>
 <body>
-    <h1>¡Hola Mundo!</h1>
-    <p>Este es un ejemplo de una página con una imagen de fondo.</p>
+    <h1></h1>
+    <p></p>
 </body>
 </html>
 
