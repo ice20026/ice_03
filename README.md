@@ -46,7 +46,7 @@
     <div class="gallery">
         <div class="photo.gif">
             <img src="Untitled design.gif" alt="Descripción de la imagen 1">
-            <a href="https://wa.me/88034121?text=Hola%20¿cómo%20estás?" class="whatsapp-link" target="_blank">Recibir mas datos</a>
+            <a href="https://wa.me/88034121?text=Hola%20¿cómo%20estás quiero recibir mas informacion sobre esta web ?" class="whatsapp-link" target="_blank">Recibir mas datos</a>
         </div>
         
 
@@ -130,7 +130,7 @@ Satisfacción Personal: Ver tu negocio crecer y recibir feedback positivo de los
 Conexión con la Comunidad: Puedes conectar con personas que comparten tus intereses y crear una comunidad en torno a tu tienda.</p>
 </body>
 </html>        
-            <a href="https://wa.me/88034121?text=Hola%20 hola quisiera recibir mas informacon soobre este tipo de web " class="whatsapp-link" target="_blank">Recibir mas datos </a>
+            <a href="https://wa.me/88034121?text=Hola%20 quisiera recibir mas informacon soobre este tipo de web " class="whatsapp-link" target="_blank">Recibir mas datos </a>
         </div>
         <!-- Añade más fotos y enlaces aquí -->
     </div>
