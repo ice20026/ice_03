@@ -46,15 +46,48 @@
     <div class="gallery">
         <div class="photo.gif">
             <img src="Untitled design.gif" alt="Descripción de la imagen 1">
-            <a href="https://wa.me/1234567890?text=Hola%20¿cómo%20estás?" class="whatsapp-link" target="_blank">Contactar por WhatsApp</a>
+            <a href="https://wa.me/88034121?text=Hola%20¿cómo%20estás?" class="whatsapp-link" target="_blank">Recibir mas datos</a>
         </div>
-        <div class="photo">
-            <img src="ruta/a/tu/imagen2.jpg" alt="Descripción de la imagen 2">
-            <a href="https://wa.me/0987654321?text=Hola%20¿cómo%20estás?" class="whatsapp-link" target="_blank">Contactar por WhatsApp</a>
-        </div>
-        <div class="photo">
-            <img src="ruta/a/tu/imagen3.jpg" alt="Descripción de la imagen 3">
-            <a href="https://wa.me/1122334455?text=Hola%20¿cómo%20estás?" class="whatsapp-link" target="_blank">Contactar por WhatsApp</a>
+        
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto en Blanco</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+        }
+        .white-text {
+            color: white; /* Color del texto en blanco */
+        }
+    </style>
+</head>
+<body>
+    <h1 class="white-text">¡Hola Mundo!</h1>
+    <p class="white-text">Este es un ejemplo de texto en color blanco sobre un fondo oscuro.</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <div class="photo.gif">
+            <img src="Untitled design (1).gif" alt="Descripción de la imagen 2">
+            <a href="https://wa.me/88034121?text=Hola%20¿cómo%20estás?" class="whatsapp-link" target="_blank">Recibir mas datos </a>
         </div>
         <!-- Añade más fotos y enlaces aquí -->
     </div>
@@ -137,4 +170,32 @@
 </body>
 </html>
 
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagen de Fondo</title>
+    <style>
+        body {
+            background-image: url('ruta/a/tu/imagen.jpg'); /* Imagen de fondo */
+            background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
+            background-position: center; /* Centra la imagen */
+            background-repeat: no-repeat; /* Evita que la imagen se repita */
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Hola Mundo!</h1>
+    <p>Este es un ejemplo de una página con una imagen de fondo.</p>
+</body>
+</html>
 
