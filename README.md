@@ -105,47 +105,32 @@ Oportunidades Laborales: Puede atraer la atención de empleadores, clientes pote
     </style>
 </head>
 <body>
-    <h1 class="white-text">Beneficios</h1>
-    <p class="white-text">
-Expresión Personal: Te brinda un espacio para compartir tus pensamientos, ideas, y experiencias con una audiencia global.
+    <h1 class="white-text">Beneficios Profesionales</h1>
+    <p class="white-text">Aumento del Alcance de Mercado: Puedes llegar a clientes de todo el mundo, sin las limitaciones geográficas de una tienda física.
 
-Desarrollo de Habilidades: Ayuda a mejorar tus habilidades de escritura, edición, y comunicación.
+Reducción de Costos: Los costos operativos suelen ser menores en comparación con una tienda física, ya que no necesitas pagar alquileres, personal, etc.
 
-Red de Contactos: Te permite conectarte con personas que comparten tus intereses y construir una comunidad en torno a tus contenidos.</p>
+Ventas 24/7: Tu tienda está abierta las 24 horas del día, los 7 días de la semana, permitiendo a los clientes comprar en cualquier momento.
+
+Mejor Control de Ventas: Puedes analizar y gestionar tus ventas con mayor precisión, utilizando herramientas que te permiten rastrear el rendimiento de tus productos y campañas.
+
+SEO y Visibilidad: Una tienda en línea bien optimizada puede mejorar tu posicionamiento en buscadores, atrayendo más tráfico orgánico.
+
+Facilidad de Escalabilidad</p>
 </body>
 </html>
-    <h1 class="white-text">Beneficios Profesionales
+    <h1 class="white-text">Beneficios Personales
 </h1>
-    <p class="white-text">Marca Personal: Ayuda a construir y fortalecer tu marca personal, mostrando tus conocimientos y experiencia en tu campo.
+    <p class="white-text">Independencia: Puedes trabajar desde cualquier lugar y en cualquier momento, lo que te brinda una mayor flexibilidad y equilibrio entre la vida personal y profesional.
 
-Portafolio en Línea: Sirve como un portafolio en línea que muestra tus trabajos, proyectos y habilidades.
+Desarrollo de Habilidades: Aprenderás sobre marketing digital, gestión de inventario, SEO, y más, lo que puede ser muy valioso para tu desarrollo profesional.
 
-Oportunidades Laborales: Puede atraer la atención de empleadores, clientes potenciales y colaboradores.
-</p>
+Satisfacción Personal: Ver tu negocio crecer y recibir feedback positivo de los clientes puede ser muy gratificante.
+
+Conexión con la Comunidad: Puedes conectar con personas que comparten tus intereses y crear una comunidad en torno a tu tienda.</p>
 </body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
-            <a href="https://wa.me/88034121?text=Hola%20¿cómo%20estás?" class="whatsapp-link" target="_blank">Recibir mas datos </a>
+</html>        
+            <a href="https://wa.me/88034121?text=Hola%20 hola quisiera recibir mas informacon soobre este tipo de web " class="whatsapp-link" target="_blank">Recibir mas datos </a>
         </div>
         <!-- Añade más fotos y enlaces aquí -->
     </div>
