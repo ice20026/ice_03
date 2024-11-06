@@ -55,7 +55,17 @@
         <div class="photo.gif">
             <img src="Untitled design (1).gif" alt="Descripción de la imagen 1">
             <a href="https://wa.me/88034121?text=Hola quiero saber mas informacion sobr este tipo de web%20" class="whatsapp-link" target="_blank">contactanos para mas informacion</a>
-            <h1 class="white-text">hola</h1> <p class="white-text">Este es un ejemplo de texto en color blanco sobre un fondo oscuro.</p>
+            <h1 class="white-text">beneficios</h1> <p class="white-text">Aumento del Alcance de Mercado: Puedes llegar a clientes de todo el mundo, sin las limitaciones geográficas de una tienda física.
+
+Reducción de Costos: Los costos operativos suelen ser menores en comparación con una tienda física, ya que no necesitas pagar alquileres, personal, etc.
+
+Ventas 24/7: Tu tienda está abierta las 24 horas del día, los 7 días de la semana, permitiendo a los clientes comprar en cualquier momento.
+
+Mejor Control de Ventas: Puedes analizar y gestionar tus ventas con mayor precisión, utilizando herramientas que te permiten rastrear el rendimiento de tus productos y campañas.
+
+SEO y Visibilidad: Una tienda en línea bien optimizada puede mejorar tu posicionamiento en buscadores, atrayendo más tráfico orgánico.
+
+Facilidad de Escalabilidad: Puedes escalar tu negocio fácilmente, añadiendo más productos y expandiendo tu mercado sin grandes inversiones adicionales.</p>
         </div>
         <!-- Añade más fotos y enlaces aquí -->
     </div>
