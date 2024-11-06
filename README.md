@@ -44,8 +44,8 @@
 <body>
     <h1>Galería de Fotos</h1>
     <div class="gallery">
-        <div class="photo">
-            <img src="cap blog.gif" alt="Descripción de la imagen 1">
+        <div class="photo.gif">
+            <img src="Untitled design.gif" alt="Descripción de la imagen 1">
             <a href="https://wa.me/1234567890?text=Hola%20¿cómo%20estás?" class="whatsapp-link" target="_blank">Contactar por WhatsApp</a>
         </div>
         <div class="photo">
