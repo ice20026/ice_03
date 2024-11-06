@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -51,10 +50,10 @@
     </style>
 </head>
 <body>
-    <h1>Galería de Fotos</h1>
+    <h1></h1>
     <div class="gallery">
         <div class="photo.gif">
-            <img src="Untitled design.gif" alt="Descripción de la imagen 1">
+            <img src="Untitled design (1).gif" alt="Descripción de la imagen 1">
             <a href="https://wa.me/88034121?text=Hola quiero saber mas informacion sobr este tipo de web%20" class="whatsapp-link" target="_blank">contactanos para mas informacion</a>
             <h1 class="white-text">hola</h1> <p class="white-text">Este es un ejemplo de texto en color blanco sobre un fondo oscuro.</p>
         </div>
