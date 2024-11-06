@@ -49,7 +49,8 @@
             <a href="https://wa.me/88034121?text=Hola%20¿cómo%20estás?" class="whatsapp-link" target="_blank">Recibir mas datos</a>
         </div>
         
-<!DOCTYPE html>
+
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -66,11 +67,25 @@
     </style>
 </head>
 <body>
-    <h1 class="white-text">¡Hola Mundo!</h1>
-    <p class="white-text">Este es un ejemplo de texto en color blanco sobre un fondo oscuro.</p>
+    <h1 class="white-text">Beneficios</h1>
+    <p class="white-text">
+Expresión Personal: Te brinda un espacio para compartir tus pensamientos, ideas, y experiencias con una audiencia global.
+
+Desarrollo de Habilidades: Ayuda a mejorar tus habilidades de escritura, edición, y comunicación.
+
+Red de Contactos: Te permite conectarte con personas que comparten tus intereses y construir una comunidad en torno a tus contenidos.</p>
 </body>
 </html>
+    <h1 class="white-text">Beneficios Profesionales
+</h1>
+    <p class="white-text">Marca Personal: Ayuda a construir y fortalecer tu marca personal, mostrando tus conocimientos y experiencia en tu campo.
 
+Portafolio en Línea: Sirve como un portafolio en línea que muestra tus trabajos, proyectos y habilidades.
+
+Oportunidades Laborales: Puede atraer la atención de empleadores, clientes potenciales y colaboradores.
+</p>
+</body>
+</html>
 
 
 
